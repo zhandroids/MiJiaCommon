@@ -36,5 +36,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-robotbit=github:zhandroids/MiJia-Common
+robotbit=github:zhandroids/MiJiaCommon
 ```
