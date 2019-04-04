@@ -6,7 +6,8 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12",
-	"HuaRobot_M2_IR":"github:zhandroids/hua_microbit_M2-ir"
+	"HuaRobot_M2_IR":"github:zhandroids/hua_microbit_M2-ir",
+	"TM1637_cn":"github:zhandroids/TM1637_cn"
     },
     "files": [
         "README.md",
