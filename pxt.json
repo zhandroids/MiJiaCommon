@@ -8,9 +8,7 @@
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12",
 	    "mijia-pxt-ir":"github:zhandroids/mijia-pxt-ir",
         "TM1637_cn":"github:zhandroids/TM1637_cn",
-        "OLED12864_I2C":"github:makecode-extensions/OLED12864_I2C",
-        "pxt-sonar":"github:Microsoft/pxt-sonar",
-        "i2cLCD1602":"github:makecode-extensions/i2cLCD1602"
+        "pxt-sonar":"github:Microsoft/pxt-sonar"
         
     },
     "files": [
