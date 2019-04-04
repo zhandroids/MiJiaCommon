@@ -1,5 +1,5 @@
 {
-    "name": "MiJiaCommon",
+    "name": "MiJiaBox",
     "version": "0.2.8",
     "description": "Extension for MiJia",
     "license": "MIT",
@@ -7,10 +7,10 @@
         "core": "*",
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12",
 	    "mijia-pxt-ir":"github:zhandroids/mijia-pxt-ir",
-        "TM1637_cn":"github:zhandroids/TM1637_cn",
-        "OLED12864_I2C":"github:makecode-extensions/OLED12864_I2C",
+        "MiJia-TM1637":"github:zhandroids/MiJia-TM1637",
+        "MiJia-oled12864":"github:zhandroids/MiJia-oled12864",
         "pxt-sonar":"github:Microsoft/pxt-sonar",
-        "i2cLCD1602":"github:makecode-extensions/i2cLCD1602"
+        "MiJia-I2C1602":"github:zhandroids/MiJia-I2C1602"
         
     },
     "files": [
