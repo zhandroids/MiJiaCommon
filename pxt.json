@@ -12,7 +12,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/rootbit-strings.json"
+        "_locales/zh/robotbit-strings.json"
     ],
     "testFiles": [
         "test.ts"
