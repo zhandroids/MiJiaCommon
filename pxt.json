@@ -8,13 +8,15 @@
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12",
 	    "mijia-pxt-ir":"github:zhandroids/mijia-pxt-ir",
         "TM1637_cn":"github:zhandroids/TM1637_cn",
-        "pxt-sonar":"github:Microsoft/pxt-sonar"
+        "OLED12864_I2C":"github:makecode-extensions/OLED12864_I2C",
+        "pxt-sonar":"github:Microsoft/pxt-sonar",
+        "i2cLCD1602":"github:makecode-extensions/i2cLCD1602"
         
     },
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/rootbit-strings.json"
+        "_locales/zh/robotbit-strings.json"
     ],
     "testFiles": [
         "test.ts"
