@@ -2,12 +2,12 @@
 Riven
 modified from pxt-servo/servodriver.ts
 load dependency
-"robotbit": "file:../pxt-robotbit"
+"mijia": "file:../pxt-mijia"
 */
 
 
 //% color="#31C7D5" weight=10 icon="\uf1d0"
-namespace robotbit {
+namespace mijia {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
     const MODE2 = 0x01
