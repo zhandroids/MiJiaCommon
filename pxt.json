@@ -6,12 +6,11 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12",
-	    "mijia-pxt-ir":"github:zhandroids/mijia-pxt-ir",
         "MiJia-TM1637":"github:zhandroids/MiJia-TM1637",
         "MiJia-oled12864":"github:zhandroids/MiJia-oled12864",
         "pxt-sonar":"github:Microsoft/pxt-sonar",
         "MiJia-I2C1602":"github:zhandroids/MiJia-I2C1602",
-        "pxt-IRremote":"github:zhandroids/pxt-IRremote"
+        "pxt-IRremote": "github:zhandroids/pxt-IRremote"
         
     },
     "files": [
