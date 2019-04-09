@@ -14,5 +14,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-MiJiaCommon=github:zhandroids/MiJiaCommon
+pxt-mijiaBit=github:zhandroids/pxt-mijiaBit
 ```
