@@ -1,6 +1,6 @@
-# robotbit
+# 米加智造
 
-Extension for mijia
+米加智造软件包
 
 
 
