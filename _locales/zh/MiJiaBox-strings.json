@@ -14,6 +14,6 @@
 	"robotbit.MatrixDraw|block": "LED矩阵 描点|X %x|Y %y",
 	"robotbit.MatrixClear|block": "LED矩阵 清空",
   "robotbit.rgb|block": "RGB",
-  "robotbit|block": "robotbit",
-  "{id:category}Robotbit": "Robotbit"
+  "robotbit|block": "imbotbit",
+  "{id:category}Robotbit": "imbotbit"
 }
