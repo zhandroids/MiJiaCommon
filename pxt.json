@@ -1,7 +1,7 @@
 {
-    "name": "MiJiaBox",
+    "name": "imbot",
     "version": "0.2.8",
-    "description": "米加智造软件包",
+    "description": "硬壳智造软件包",
     "license": "MIT",
     "dependencies": {
         "core": "*",
