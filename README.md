@@ -1,6 +1,6 @@
-# 米加智造
+# 硬壳智造
 
-米加智造软件包
+硬壳智造imbot系列机器人软件包
 
 
 
@@ -13,6 +13,3 @@ MIT
 * for PXT/microbit
 (The metadata above is needed for package search.)
 
-```package
-pxt-mijiaBit=github:zhandroids/pxt-mijiaBit
-```
